@@ -25,7 +25,7 @@ function Cards(){
       setQuantity(quantity-1)
     }
 return (
-    <Card style={{ width: '18rem' }} key={i}>
+    <Card style={{ width: '50rem' }} key={i}>
     <Card.Img variant="top" src={e.thumbnail} />
   <Card.Body >
     <Card.Title>{e.title}</Card.Title>
