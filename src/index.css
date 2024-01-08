@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(146, 106, 114);
+    margin-top:80px;
+    margin-bottom:30px;
+    
+    }
+    #container{
+        padding:7px;
+        margin-left: 35%;
+        display:grid;
+        gap: 50px;
+    }
